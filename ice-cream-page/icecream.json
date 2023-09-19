@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Helado de Vainilla",
+        "sabor": "Vainilla",
+        "descripcion": "Delicioso helado de vainilla con trozos de vainilla real.",
+        "precio": 3.99
+    },
+    {
+        "nombre": "Helado de Chocolate",
+        "sabor": "Chocolate",
+        "descripcion": "Un placer para los amantes del chocolate. Chocolate suave y cremoso.",
+        "precio": 4.49
+    },
+    {
+        "nombre": "Helado de Fresa",
+        "sabor": "Fresa",
+        "descripcion": "Helado fresco y afrutado con trozos de fresa fresca.",
+        "precio": 4.99
+    }
+]

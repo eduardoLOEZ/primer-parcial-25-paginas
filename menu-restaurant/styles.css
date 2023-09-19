@@ -1,0 +1,68 @@
+/* Estilos CSS aqu� */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Contenedor del menú */
+.menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+/* Estilo de cada sección del menú */
+.menu-item {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Lista de elementos del menú */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    font-size: 18px;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+}
+
+
+
+.imagenes {
+    text-align: center;
+    padding: 20px;
+}
+
+.image-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-row img {
+    max-width: 24%;
+    margin: 10px;
+}

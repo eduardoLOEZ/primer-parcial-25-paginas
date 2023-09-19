@@ -1,0 +1,144 @@
+/* Estilos CSS aqu� */
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Descripción del Evento */
+.descripcion {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.descripcion .cta-button {
+    display: inline-block;
+    background-color: #ff6600;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.descripcion .cta-button:hover {
+    background-color: #cc5500;
+}
+
+/* Ponentes Destacados */
+.ponentes {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.ponente {
+    margin: 20px;
+}
+
+.ponente img {
+    max-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* Formulario de Registro */
+.registro {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.registro form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.registro label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.registro input[type="text"],
+.registro input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.registro button {
+    display: block;
+    background-color: #ff6600;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.registro button:hover {
+    background-color: #cc5500;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+}
+
+
+header.hero {
+    background-image: url('media/tech.jpg'); 
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+}
+
+header.hero h1{
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente para el texto */
+    padding: 10px 20px; /* Espaciado interior para el texto */
+    border-radius: 5px; /* Bordes redondeados para el fondo */
+    display: inline-block; /* Hacemos que el fondo abarque solo el ancho del texto */
+}
+
+
+
+
+
+header.hero a {
+    background-color: #fff;
+    color: #333; 
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease; 
+}
+
+header.hero a:hover {
+    background-color: #333; 
+    color: #fff; 
+}
+

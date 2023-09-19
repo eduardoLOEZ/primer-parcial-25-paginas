@@ -1,0 +1,67 @@
+/* Estilos CSS aqu� */
+
+
+
+.nav-bar{
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 10px 0; /* Espaciado interno arriba y abajo */
+}
+
+.nav-bar h1{
+    text-align: center;
+}
+
+.nav-list {
+    list-style: none; /* Quita los marcadores de lista */
+    display: flex; /* Muestra los elementos en línea */
+    justify-content: center; /* Centra los elementos horizontalmente */
+}
+
+.nav-list li {
+    margin: 0 20px; /* Espacio entre elementos del menú */
+}
+
+.nav-list li a {
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    color: #fff; /* Color del texto de los enlaces */
+    font-weight: bold; /* Texto en negrita */
+    transition: color 0.3s; /* Transición suave del color del texto */
+}
+
+
+.nav-list li a:hover {
+    color: #f00; /* Cambio de color al pasar el mouse sobre los enlaces */
+}
+
+#container-profiles{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.perfil {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    text-align: center;
+}
+
+.perfil img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.perfil h2 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+
+.perfil p {
+    margin: 5px 0;
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "imagen": "https://media.istockphoto.com/id/1388253782/es/foto/positivo-exitoso-hombre-de-negocios-profesional-de-negocios-del-milenio-retrato-de-la-cabeza.webp?b=1&s=170667a&w=0&k=20&c=ws4-3NhuLsEGMCSDrHYI_Ws17HkyqAn5jd4dhdx96hk=",
+      "gustos": ["Viajar", "Leer", "Música"],
+      "carrera": "Ingeniería Civil",
+      "edad": 30,
+      "nacionalidad": "Mexicano"
+    },
+    {
+      "nombre": "María Rodríguez",
+      "imagen": "https://media.istockphoto.com/id/1368424494/es/foto/retrato-de-estudio-de-una-mujer-alegre.webp?b=1&s=170667a&w=0&k=20&c=qRtAw9yrnDVEqR_oT-6v3elmhjiSx-Q9N-QhCdYdBSg=",
+      "gustos": ["Deportes", "Cocina", "Películas"],
+      "carrera": "Medicina",
+      "edad": 28,
+      "nacionalidad": "Española"
+    },
+    {
+      "nombre": "Lisa Smith",
+      "imagen": "https://media.istockphoto.com/id/1437816897/es/foto/mujer-de-negocios-gerente-o-retrato-de-recursos-humanos-para-el-%C3%A9xito-profesional-la-empresa.webp?b=1&s=170667a&w=0&k=20&c=BlEVDfvaJCZRUrytbmAwZZQwE7Y43oiEEOi_FSDSjtQ=",
+      "gustos": ["Arte", "Jardinería", "Senderismo"],
+      "carrera": "Arquitectura",
+      "edad": 32,
+      "nacionalidad": "Estadounidense"
+    },
+    {
+      "nombre": "Carlos Fernández",
+      "imagen": "https://media.istockphoto.com/id/1406197730/es/foto/retrato-de-un-joven-indio-guapo.webp?b=1&s=170667a&w=0&k=20&c=oLRn-YCW8_nZMGF6XwL4xWzNwqO9MExwJTuatQxj3DA=",
+      "gustos": ["Fotografía", "Tecnología", "Música"],
+      "carrera": "Informática",
+      "edad": 25,
+      "nacionalidad": "Argentino"
+    },
+    {
+      "nombre": "Emily Chen",
+      "imagen": "https://media.istockphoto.com/id/1407759041/es/foto/confiado-feliz-hermosa-estudiante-hispana-retrato-de-cabeza-en-el-interior.webp?b=1&s=170667a&w=0&k=20&c=95BFORL0HYKUwHULpB6Mbh4a9UiJv_OE1rDdJaaB1f8=",
+      "gustos": ["Viajes", "Idiomas", "Cocina"],
+      "carrera": "Idiomas Extranjeros",
+      "edad": 27,
+      "nacionalidad": "Canadiense"
+    },
+    {
+        "nombre": "Jhon Smith",
+        "imagen": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZmlsZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "gustos": ["Viajes", "deportes", "ingenieria"],
+        "carrera": "desarrollo de software",
+        "edad": 27,
+        "nacionalidad": "Canadiense"
+      }
+  ]
+  

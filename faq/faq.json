@@ -1,0 +1,22 @@
+[
+    {
+        "question": "¿Qué es HTML?",
+        "answer": "HTML (Hypertext Markup Language) es el lenguaje estándar para crear páginas web. Define la estructura y el contenido de una página web utilizando etiquetas."
+    },
+    {
+        "question": "¿Qué es CSS?",
+        "answer": "CSS (Cascading Style Sheets) es un lenguaje utilizado para dar estilo y diseño a las páginas web. Se utiliza para controlar la apariencia visual de los elementos HTML."
+    },
+    {
+        "question": "¿Cómo puedo personalizar los estilos?",
+        "answer": "Puedes personalizar los estilos utilizando un archivo CSS. Define las reglas de estilo para las clases y etiquetas que desees en tu hoja de estilos."
+    },
+    {
+        "question": "¿Cuál es el propósito de JavaScript?",
+        "answer": "JavaScript se utiliza para agregar interactividad y funcionalidad a las páginas web. Puede ser utilizado para validar formularios, crear animaciones, manejar eventos y mucho más."
+    },
+    {
+        "question": "¿Qué es un servidor web?",
+        "answer": "Un servidor web es un software que se ejecuta en un servidor y responde a las solicitudes de los navegadores web enviando páginas web al cliente. Algunos servidores web populares incluyen Apache, Nginx y Microsoft IIS."
+    }
+]

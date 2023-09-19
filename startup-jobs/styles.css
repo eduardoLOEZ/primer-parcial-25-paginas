@@ -1,0 +1,70 @@
+/* Estilos CSS aqu� */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado y menú de navegación */
+header {
+    background-color: #333;
+    color: rgb(20, 19, 19);
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Sección principal (hero) */
+.hero {
+    background-image: url('media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: 100px 0;
+}
+
+/* Botón de llamada a la acción (CTA) */
+.cta-button {
+    display: inline-block;
+    background-color: #ff6600;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #cc5500;
+}
+
+/* Otras secciones */
+.acerca, .servicios, .contacto {
+    text-align: center;
+    padding: 50px 0;
+}
+
+/* Estilos para los servicios */
+.servicio {
+    margin: 20px;
+    padding: 20px
+}

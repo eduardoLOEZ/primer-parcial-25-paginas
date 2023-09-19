@@ -1,0 +1,28 @@
+/* Estilos previos se mantienen */
+
+
+.icecream {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.icecream h1 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+}
+
+.icecream h2 {
+    font-size: 1.2rem;
+    color: #777;
+    margin-top: 0.5rem;
+}
+
+.icecream p {
+    font-size: 1rem;
+    color: #555;
+}

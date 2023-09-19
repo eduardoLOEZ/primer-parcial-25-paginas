@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 20,
+        "curso": "Ingeniería Informática",
+        "asistio": true
+    },
+    {
+        "id": 2,
+        "nombre": "Maria López",
+        "edad": 22,
+        "curso": "Psicología",
+        "asistio": false
+    },
+    {
+        "id": 3,
+        "nombre": "Luis García",
+        "edad": 21,
+        "curso": "Administración de Empresas",
+        "asistio": true
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Rodríguez",
+        "edad": 19,
+        "curso": "Diseño Gráfico",
+        "asistio": true
+    },
+    {
+        "id": 5,
+        "nombre": "Pedro Martínez",
+        "edad": 23,
+        "curso": "Medicina",
+        "asistio": false
+    }
+]

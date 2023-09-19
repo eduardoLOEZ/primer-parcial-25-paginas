@@ -1,0 +1,107 @@
+/* Estilos CSS aqu� */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+/* Contenedor del CV */
+.cv-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Sección de información personal */
+.personal-info {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 1rem 0;
+}
+
+.name {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0;
+}
+
+.job-title {
+    font-size: 1.2rem;
+    color: #777;
+    margin: 0;
+}
+
+/* Sección de experiencia */
+.experience {
+    margin-bottom: 1rem;
+}
+
+.job-title {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 0;
+}
+
+.company {
+    font-size: 1rem;
+    color: #777;
+    margin: 0;
+}
+
+.date {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Habilidades */
+.skills {
+    margin-bottom: 1rem;
+}
+
+.skill {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 0.3rem 0.5rem;
+    border-radius: 5px;
+    margin-right: 0.5rem;
+}
+
+/* Educación */
+.education {
+    margin-bottom: 1rem;
+}
+
+.degree {
+    font-size: 1.2rem;
+    color: #333;
+    margin: 0;
+}
+
+.institution {
+    font-size: 1rem;
+    color: #777;
+    margin: 0;
+}

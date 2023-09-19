@@ -1,0 +1,80 @@
+/* Estilos CSS aqu� */
+/* styles.css */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+header {
+    background-image: url('media/Videojuegos-fuentes-de-informacion-gamers--1024x576.webp'); 
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+/* Contenido principal */
+.game-info {
+    text-align: center;
+    padding: 50px;
+}
+
+.screenshots {
+    text-align: center;
+    padding: 50px;
+}
+
+.screenshot img {
+    max-width: 100%;
+    border: 2px solid #333;
+    margin: 10px;
+}
+
+
+.cta-button {
+    display: inline-block;
+    background-color: #007BFF;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
+
+/* Plataformas de descarga */
+.platforms {
+    text-align: center;
+}
+
+.platform-button {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.platform-button:hover {
+    background-color: #444;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+}

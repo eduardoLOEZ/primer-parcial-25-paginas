@@ -1,0 +1,24 @@
+[
+    {
+        "ruta": "Ruta 1",
+        "salida": "8:00 AM",
+        "llegada": "10:00 AM",
+        "dias": "Lunes - Viernes",
+        "imagen": "https://media.istockphoto.com/id/1371319562/es/foto/autob%C3%BAs-azul-que-se-mueve-en-la-carretera-de-la-ciudad-temprano-en-la-ma%C3%B1ana.webp?b=1&s=170667a&w=0&k=20&c=qOZ_WokYGV_B--kcfUj5LKdU6jQeywtezr_UFE_7NAY="
+    },
+    {
+        "ruta": "Ruta 2",
+        "salida": "9:30 AM",
+        "llegada": "12:00 PM",
+        "dias": "Lunes - Sábado",
+        "imagen": "https://media.istockphoto.com/id/1406868771/es/foto/autob%C3%BAs-de-la-ciudad-con-cartelera-en-blanco.webp?b=1&s=170667a&w=0&k=20&c=tw-msYh2lnyadn9hRXZ0RbAQXMIAVz9j-R2GdB4HoGk="
+    },
+    {
+        "ruta": "Ruta 3",
+        "salida": "2:00 PM",
+        "llegada": "4:30 PM",
+        "dias": "Lunes - Domingo",
+        "imagen": "https://media.istockphoto.com/id/1437738956/es/foto/un-concepto-de-autob%C3%BAs-urbano-de-pila-de-combustible-de-hidr%C3%B3geno.webp?b=1&s=170667a&w=0&k=20&c=Rqf6FKrtV73nj4YVOjFJwQCNcOYXZzmI5omiXDEKRxg="
+    }
+    
+]

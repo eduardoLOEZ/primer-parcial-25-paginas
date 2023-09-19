@@ -1,0 +1,58 @@
+/* Estilos CSS aqu� */
+
+/* Estilos para la tabla */
+.horario {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.horario img{
+    max-width: 200px;
+    height: auto;  
+}
+
+.horario th, .horario td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.horario th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Estilos para el navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list li {
+    margin: 0 20px;
+}
+
+.nav-list li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav-list li a:hover {
+    color: #f00;
+}
+
+/* Estilos para el contenido */
+.content {
+    text-align: center;
+    padding: 20px;
+}
